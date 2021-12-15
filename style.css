@@ -6,7 +6,7 @@ body {
   line-height: 32px;
   color: #f2f2f2;
   background-color: #080208;
-  background-image: url("img/hero-bg.jpg");
+  background-image: url("img/back.jpg");
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -59,6 +59,7 @@ body {
   margin: 0 0 24px;
   font-size: 80px;
   line-height: 96px;
+  padding-top: 450px;
 }
 
 .hero-image p {
@@ -107,11 +108,11 @@ body {
 }
 
 .rzhaka {
-  background-image: url("img/rzhaka.png");
+  background-image: url("img/rzhaka.svg");
 }
 
 .mat {
-  background-image: url("img/mat.png");
+  background-image: url("img/mat.svg");
 }
 
 .level {
