@@ -59,7 +59,7 @@ body {
   margin: 0 0 24px;
   font-size: 80px;
   line-height: 96px;
-  padding-top: 450px;
+  padding-top: 400px;
 }
 
 .hero-image p {
@@ -108,11 +108,11 @@ body {
 }
 
 .rzhaka {
-  background-image: url("img/rzhaka.svg");
+  background-image: url("img/rzhaka.png");
 }
 
 .mat {
-  background-image: url("img/mat.svg");
+  background-image: url("img/mat.png");
 }
 
 .level {
